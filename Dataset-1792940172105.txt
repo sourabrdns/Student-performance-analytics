@@ -1,0 +1,16 @@
+Student ID,Name,Department,Maths,Physics,Chemistry,Attendance
+101,Aarav Sharma,Computer Science,85,78,92,92
+102,Ananya Verma,Information Technology,90,88,84,95
+103,Rohan Gupta,Electronics,45,52,48,78
+104,Isha Patel,Computer Science,35,40,32,65
+105,Vikram Singh,Mechanical,72,68,75,88
+106,Priya Nair,Information Technology,95,91,96,98
+107,Siddharth Rao,Electronics,28,30,35,55
+108,Sneha Kulkarni,Computer Science,88,85,90,91
+109,Aditya Joshi,Mechanical,62,58,60,82
+110,Kavya Reddy,Computer Science,79,82,80,89
+111,Rahul Mehta,Information Technology,42,45,39,70
+112,Neha Kapoor,Electronics,89,94,91,96
+113,Amit Kumar,Mechanical,55,50,58,75
+114,Pooja Bhat,Computer Science,91,89,93,94
+115,Devendra Chawla,Electronics,30,32,28,60
