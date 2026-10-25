@@ -3,9 +3,9 @@
 ## 1. Project Title & Details
 - **Project Name:** Student Performance Analytics System
 - **Course / Program:** Python Data Analysis (EWB Courses)
-- **Student Name:** [Enter Your Name Here]
-- **Student ID:** [Enter Your ID Here]
-- **Department:** [Enter Your Department Here]
+- **Student Name:** [sourab kumar]
+- **Student ID:** [N/A]
+- **Department:** [CSE]
 - **Submission Date:** 26 October 2026
 
 ---
